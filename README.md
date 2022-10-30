@@ -13,3 +13,4 @@ I have learnt Mobile application development using #Flutter ui toolkit and polis
 ## - 📫 How to reach me: chawllaa.anmol@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anmolch8&layout=compact)](https://github.com/Anmolch8)
+![Anmol's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
