@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**Anmolch8/Anmolch8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi there 👋 I am Anmol
+I'm passionate about technology and its trends, gained some skills in python programming worked with its frameworks like flask 
+for api development and django fpr web application
+Also working on my data analysis and machine learning skills using pandas, matplotlib and scikit-learn and also make some projects for the same 
+I have learnt Mobile application development using #Flutter ui toolkit and still polishing my skills
+## - 🔭 I’m currently working on climate change website using django and time series analysis using ARIMA model
+- 🌱 I’m currently learning unsupervised ML, django, flutter
+- 🤔 I’m looking for help with getting an internship/Job 
+- 💬 Ask me about data science, python, C++ programming 
+- 📫 How to reach me: chawllaa.anmol@gmail.com
