@@ -7,5 +7,8 @@ using modern tools like Azure Data Factory, Databricks, Delta Lake, and the Data
 ## - 💬 LinkedIn https://www.linkedin.com/in/anmol-chawla-5577a21b7/
 
 
+https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anmolch8&layout=compact)](https://github.com/Anmolch8)
 
