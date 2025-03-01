@@ -6,8 +6,14 @@ using modern tools like Azure Data Factory, Databricks, Delta Lake, and the Data
 ## - 🧑‍💻 Ask me about Data Engineering and analytics
 ## - 💬 LinkedIn https://www.linkedin.com/in/anmol-chawla-5577a21b7/
 
-
-https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png
+# Languages and Tools
+<div align="center">
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="Pandas" title="Pandas"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mssql.png" alt="MSSQL" title="MSSQL"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png" alt="Microsoft Azure" title="Microsoft Azure"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/databricks.png" alt="Databricks" title="Databricks"/></code>
+</div>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anmolch8&layout=compact)](https://github.com/Anmolch8)
