@@ -7,7 +7,7 @@ using modern tools like Azure Data Factory, Databricks, Delta Lake, and the Data
 ## - 💬 LinkedIn https://www.linkedin.com/in/anmol-chawla-5577a21b7/
 
 # Languages and Tools
-<div align="center">
+<div>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="Pandas" title="Pandas"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mssql.png" alt="MSSQL" title="MSSQL"/></code>
