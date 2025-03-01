@@ -14,6 +14,8 @@ using modern tools like Azure Data Factory, Databricks, Delta Lake, and the Data
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png" alt="Microsoft Azure" title="Microsoft Azure"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/databricks.png" alt="Databricks" title="Databricks"/></code>
 </div>
+</br>
+</br>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anmolch8&layout=compact)](https://github.com/Anmolch8)
